@@ -1,4 +1,4 @@
-![Claude Code](https://img.shields.io/badge/context engineering-FF6D5A?style=for-the-badge
+![Claude Code](https://img.shields.io/badge/context engineering-FF6D5A?style=for-the-badge)
 
 
 ### **컨텍스트 엔지니어링(Context Engineering)** 은 LLM(거대언어모델)에 필요한 정보 페이로드를 체계적으로 설계·최적화하여 AI의 작업 수행 환경을 재설계하는 상위 기술입니다.
