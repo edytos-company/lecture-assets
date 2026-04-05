@@ -1,1 +1,1 @@
-# lecture-assets
+# 에디토스 강의 에셋 모음
